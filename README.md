@@ -87,8 +87,7 @@ Hospital-Healthcare-Analytics-EDA/
 ├── Hospital_ER_Analytics_EDA.ipynb
 ├── Hospital_ER_Data.csv
 ├── Hospital_ER_Cleaned.csv
-└── documentation/
-    └── Hospital_EDA_Documentation.md
+└── Hospital_EDA_Documentation.md
 ```
 
 ## Conclusion
